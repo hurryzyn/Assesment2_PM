@@ -1,3 +1,4 @@
 # assesment_2
 
-A new Flutter project.
+Assesment 2 Pemrogramana mobile membuat login dan pages, yang ada drawer navigasinya 
+
